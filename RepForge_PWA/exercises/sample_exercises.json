@@ -1,0 +1,6 @@
+
+[
+    {"name":"Push-Up","type":"Bodyweight","muscle":"Chest","equipment":"None"},
+    {"name":"Pull-Up","type":"Bodyweight","muscle":"Back","equipment":"Pull-up Bar"},
+    {"name":"Squat","type":"Barbell","muscle":"Legs","equipment":"Barbell"}
+]
